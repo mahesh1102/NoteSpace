@@ -7,7 +7,7 @@
     "start": "node app",
     "dev": "nodemon app"
   },
-  "author": "Piyush",
+  "author": "Mahesh",
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.948.0",
